@@ -1,0 +1,15 @@
+# Build cache
+__pycache__
+build
+
+# Python build cache
+*.pyc
+*.cpython-37.pyc
+
+# Build helpers
+devel
+setup
+
+# IDE Cache
+idea
+.vscode
